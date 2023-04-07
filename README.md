@@ -1,4 +1,4 @@
-# Table-with-jQuery
+# Modifiable-Table-with-jQuery
 
 Initial table contains 5 lines and 5 columns with read-only values. Besides these 5 columns there are 2 special columns, one on the left side and another one on the right side containing buttons.
 
